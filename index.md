@@ -4,12 +4,12 @@
 
 ### Data analysis 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[RestaurantHygieneRatings](https://shreyaprojects.shinyapps.io/RestaurantRatings/)
+<img src="images/shiny.jpeg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tata Trusts](https://www.tatatrusts.org/upload/pdf/overall-report-single.pdf)
+
 
 ---
 [Project 3 Title](http://example.com/)
@@ -32,6 +32,7 @@
 
 
 ### Blogs
+[How to analyze public data with Google BigQuery](https://towardsdatascience.com/a-short-guide-to-analyze-public-data-from-google-bigquery-667126efbe24)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
