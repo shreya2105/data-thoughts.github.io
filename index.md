@@ -2,7 +2,7 @@
 
 ---
 
-### ShinyApps
+### Data analysis 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Machine Learning Projects / experimentation
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,8 +27,11 @@
 
 ---
 
+### Visualizations
 
 
+
+### Blogs
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
