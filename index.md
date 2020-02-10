@@ -4,11 +4,11 @@
 
 ### Data analysis 
 
-[RestaurantHygieneRatings](https://shreyaprojects.shinyapps.io/RestaurantRatings/)
-<img src="images/shiny.jpeg?raw=true"/>
+[RestaurantHygieneRatings](https://shreyaprojects.shinyapps.io/RestaurantRatings/) - A Shiny App to  find restaurants in the UK based on the hygiene ratings awarded by Food Standards Agency.
+<img src="images/shiny.jpeg?raw=true"/> 
 
 ---
-[Tata Trusts](https://www.tatatrusts.org/upload/pdf/overall-report-single.pdf)
+[Tata Trusts](https://www.tatatrusts.org/upload/pdf/overall-report-single.pdf) - 
 
 
 ---
@@ -30,7 +30,7 @@
 ### Visualizations
 
 
-
+---
 ### Blogs
 [How to analyze public data with Google BigQuery](https://towardsdatascience.com/a-short-guide-to-analyze-public-data-from-google-bigquery-667126efbe24)
 
