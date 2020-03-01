@@ -2,9 +2,11 @@
 
 ---
 
-### Data analysis 
+### Data Analysis 
 
-[India Justice Report, 2019](https://www.tatatrusts.org/upload/pdf/overall-report-single.pdf) - This is India's first [ranking index](https://www.tatatrusts.org/insights/survey-reports/India-justice-report-2019/index.html#visualization) for measuring Indian states on access to justice, based on four parameters - Police, Prisons, Judiciary, and Legal Aid. The study was funded by Tata Group's philanthropic arm, Tata Trusts. My task here was to collate all the relevant publicly available datasets for last available five years and bring them all together for ranking Indian states. Relevant indicators were culled out from reams of data after several discussions with the client and the associated expert research groups. These final indicators were then checked for consistency in terms of missing data for a state or a year. The indicator values were then normalized on 0-1 scale for consistency and then ranked based on state's performance on the indicators. Besides ranking and analysis, I had also built few visualizations for the report (link above). 
+[India Justice Report, 2019](https://www.tatatrusts.org/upload/pdf/overall-report-single.pdf) - This is India's first [ranking index](https://www.tatatrusts.org/insights/survey-reports/India-justice-report-2019/index.html#visualization) for measuring Indian states on access to justice, based on four parameters - Police, Prisons, Judiciary, and Legal Aid. The study was funded by Tata Group's philanthropic arm, Tata Trusts. Here's the repository [link](https://github.com/shreya2105/Tata-Trusts-India-Justice-Report) for more details. 
+
+[Philanthropic Capital of India](http://csip.ashoka.edu.in/estimating-philanthropic-capital-in-india-datasets/) - Primary question that started this project was "What is the philanthropic capital of India?". To answer this question, I gathered and analyzed data from 4 Indian government's databases - Darpan, FCRA (Foreign Currency (Regulation) Act, Corporate Social Responsibility funding, Income Tax (for the list of NGOs registered with department).   
 
 ---
 ### Programming
@@ -12,29 +14,25 @@
 [RestaurantHygieneRatings](https://shreyaprojects.shinyapps.io/RestaurantRatings/) - A Shiny App to  find restaurants in the UK based on the hygiene ratings awarded by Food Standards Agency.
 <img src="images/shiny.jpeg?raw=true"/> 
 
-
-
-
-
 ---
 
-### Machine Learning Projects
+### Data Stories
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [India's Wilful Defaulters](https://www.livemint.com/Industry/QqgpHMrO62Cw1BvOAD7a9L/Where-you-can-find-Indias-wilful-defaulters.html) - This story was reported based on analysis of publicly available dataset of Indian loan defaulters.
+- [How Mark Mobius Saw India](https://www.livemint.com/Companies/o0L1qDP8dKjaWFb5V0aieM/How-Mark-Mobius-saw-India-over-the-years.html) - I analyzed Mark Mobius' investments in India over the years, the data for which was available in annual reports of his portfolios.
+- [Girl Child Marriage](https://www.livemint.com/Politics/B4wwK9cEayKf5OveihQWrO/Girl-child-marriage-Which-districts-fare-the-worst-in-India.html) - This story tracked the number of girl child marriages in India from the data available on India's Census database.
+- [city slickers and their urbane choices](https://www.livemint.com/news/india/the-story-of-city-slickers-and-their-urbane-choices-1566502160896.html) - A analysis of migrant and local population in India's urban agglomerations from the data available on Census 2011.
+- [For the central govt, new hiring cuts both ways](https://www.livemint.com/budget/news/for-the-central-govt-new-hiring-cuts-both-ways-1548878039852.html) - This is an analysis of expected and the latest staff strength of Indian government, available on India's budget documents.
 
 ---
 
 ### Visualizations
 
-
-
+[India Justice Report, 2019](https://www.tatatrusts.org/upload/pdf/overall-report-single.pdf) - built visualizations for the India Justice report using libraries in R, which were further enhanced in design softwares. Please refer to page #9, #11, #15, #28, #44, #65 of the report for the visualizations.   
 
 ---
 ### Blogs
+
 [How to analyze public data with Google BigQuery](https://towardsdatascience.com/a-short-guide-to-analyze-public-data-from-google-bigquery-667126efbe24)
 
 ---
