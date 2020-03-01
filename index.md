@@ -4,20 +4,21 @@
 
 ### Data analysis 
 
+[India Justice Report, 2019](https://www.tatatrusts.org/upload/pdf/overall-report-single.pdf) - This is India's first [ranking index](https://www.tatatrusts.org/insights/survey-reports/India-justice-report-2019/index.html#visualization) for measuring Indian states on access to justice, based on four parameters - Police, Prisons, Judiciary, and Legal Aid. The study was funded by Tata Group's philanthropic arm, Tata Trusts. My task here was to collate all the relevant publicly available datasets for last available five years and bring them all together for ranking Indian states. Relevant indicators were culled out from reams of data after several discussions with the client and the associated expert research groups. These final indicators were then checked for consistency in terms of missing data for a state or a year. The indicator values were then normalized on 0-1 scale for consistency and then ranked based on state's performance on the indicators. Besides ranking and analysis, I had also built few visualizations for the report (link above). 
+
+---
+### Programming
+
 [RestaurantHygieneRatings](https://shreyaprojects.shinyapps.io/RestaurantRatings/) - A Shiny App to  find restaurants in the UK based on the hygiene ratings awarded by Food Standards Agency.
 <img src="images/shiny.jpeg?raw=true"/> 
 
----
-[Tata Trusts](https://www.tatatrusts.org/upload/pdf/overall-report-single.pdf) - 
+
+
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-### Machine Learning Projects / experimentation
+### Machine Learning Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -28,6 +29,8 @@
 ---
 
 ### Visualizations
+
+
 
 
 ---
