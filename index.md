@@ -12,8 +12,10 @@
 ### Programming
 
 [RestaurantHygieneRatings](https://shreyaprojects.shinyapps.io/RestaurantRatings/) - A Shiny App to  find restaurants in the UK based on the hygiene ratings awarded by Food Standards Agency.
+
 <img src="images/shiny.jpeg?raw=true"/> 
 
+[Picking stocks for portfolio](https://github.com/shreya2105/Monthly-stocks-portfolio) - Pick large cap and small cap portfolio over a period of 20 years for each month.
 ---
 
 ### Data Stories
