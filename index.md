@@ -23,7 +23,7 @@
 - [India's Wilful Defaulters](https://www.livemint.com/Industry/QqgpHMrO62Cw1BvOAD7a9L/Where-you-can-find-Indias-wilful-defaulters.html) - This story was reported based on analysis of publicly available dataset of Indian loan defaulters.
 - [How Mark Mobius Saw India](https://www.livemint.com/Companies/o0L1qDP8dKjaWFb5V0aieM/How-Mark-Mobius-saw-India-over-the-years.html) - I analyzed Mark Mobius' investments in India over the years, the data for which was available in annual reports of his portfolios.
 - [Girl Child Marriage](https://www.livemint.com/Politics/B4wwK9cEayKf5OveihQWrO/Girl-child-marriage-Which-districts-fare-the-worst-in-India.html) - This story tracked the number of girl child marriages in India from the data available on India's Census database.
-- [city slickers and their urbane choices](https://www.livemint.com/news/india/the-story-of-city-slickers-and-their-urbane-choices-1566502160896.html) - A analysis of migrant and local population in India's urban agglomerations from the data available on Census 2011.
+- [City slickers and their urbane choices](https://www.livemint.com/news/india/the-story-of-city-slickers-and-their-urbane-choices-1566502160896.html) - A analysis of migrant and local population in India's urban agglomerations from the data available on Census 2011.
 - [For the central govt, new hiring cuts both ways](https://www.livemint.com/budget/news/for-the-central-govt-new-hiring-cuts-both-ways-1548878039852.html) - This is an analysis of expected and the latest staff strength of Indian government, available on India's budget documents.
 
 ---
