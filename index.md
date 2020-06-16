@@ -10,7 +10,6 @@
 [Sales Prediction](https://github.com/shreya2105/sales_prediction) - This project was part of a hackathon organized by Analytics Vidhya. The purpose here was to predict sales of 600 courses of an online teaching portal using ARIMA model.The univariate series to be predicted here was 'Sales' for each course. The first step was to analyze if the series was dependent on any of the given explanatory variables. The given five features were regressed against dependent variable, sales. The linear regression model revealed that short promotion and user traffic were significant features and could explain 75% of the variation in sales. This linear regression model built to find relationships between variables was used to build the ARIMA model with 2 regressors initially. 
 
 ---
-
 ### Data Analysis
 
 [India Justice Report, 2019](https://www.tatatrusts.org/upload/pdf/overall-report-single.pdf) - This is India's first [ranking index](https://www.tatatrusts.org/insights/survey-reports/India-justice-report-2019/index.html#visualization) for measuring Indian states on access to justice, based on four parameters - Police, Prisons, Judiciary, and Legal Aid. The study was funded by Tata Group's philanthropic arm, Tata Trusts. Here's the repository [link](https://github.com/shreya2105/Tata-Trusts-India-Justice-Report) for more details. 
@@ -23,14 +22,12 @@
 [Picking stocks for portfolio](https://github.com/shreya2105/Monthly-stocks-portfolio) - Pick large cap and small cap portfolio over a period of 20 years for each month.
 
 ---
-
 ### RShiny
 [RestaurantHygieneRatings](https://shreyaprojects.shinyapps.io/RestaurantRatings/) - A Shiny App to  find restaurants in the UK based on the hygiene ratings awarded by Food Standards Agency.
 
 <img src="images/shiny.jpeg?raw=true"/> 
 
 ---
-
 ### Data Stories
 
 - [India's Wilful Defaulters](https://www.livemint.com/Industry/QqgpHMrO62Cw1BvOAD7a9L/Where-you-can-find-Indias-wilful-defaulters.html) - This story was reported based on analysis of publicly available dataset of Indian loan defaulters.
@@ -40,7 +37,6 @@
 - [For the central govt, new hiring cuts both ways](https://www.livemint.com/budget/news/for-the-central-govt-new-hiring-cuts-both-ways-1548878039852.html) - This is an analysis of expected and the latest staff strength of Indian government, available on India's budget documents.
 
 ---
-
 ### Visualizations
 
 [India Justice Report, 2019](https://www.tatatrusts.org/upload/pdf/overall-report-single.pdf) - built visualizations for the India Justice report using libraries in R, which were further enhanced in design softwares. Please refer to page #9, #11, #15, #28, #44, #65 of the report for the visualizations.   
