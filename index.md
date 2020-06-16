@@ -40,6 +40,7 @@
 ### Visualizations
 
 [India Justice Report, 2019](https://www.tatatrusts.org/upload/pdf/overall-report-single.pdf) - built visualizations for the India Justice report using libraries in R, which were further enhanced in design softwares. Please refer to page #9, #11, #15, #28, #44, #65 of the report for the visualizations.   
+
 [NCAER Land Records and Services Index Report, 2020](http://www.ncaer.org/uploads/photo-gallery/files/1583383677N-LRSI%20Study%20Report%202020.pdf) - built visualizations for the NCAER lands records report using libraries in R, which were further enhanced in design softwares. Please refer to page #43, #58, #59, #61, #68, of the report for the visualizations.   
 
 ---
