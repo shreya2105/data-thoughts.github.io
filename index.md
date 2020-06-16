@@ -9,6 +9,7 @@
 
 [Sales Prediction](https://github.com/shreya2105/sales_prediction) - This project was part of a hackathon organized by Analytics Vidhya. The purpose here was to predict sales of 600 courses of an online teaching portal using ARIMA model.The univariate series to be predicted here was 'Sales' for each course. The first step was to analyze if the series was dependent on any of the given explanatory variables. The given five features were regressed against dependent variable, sales. The linear regression model revealed that short promotion and user traffic were significant features and could explain 75% of the variation in sales. This linear regression model built to find relationships between variables was used to build the ARIMA model with 2 regressors initially. 
 
+---
 
 ### Data Analysis
 
