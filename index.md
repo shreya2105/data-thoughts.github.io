@@ -1,18 +1,29 @@
 ## Portfolio
 
 ---
+### Machine Learning 
 
-### Data Analysis 
+[ToBeDessertOrNot](https://github.com/shreya2105/TobBeDessertOrNot) - This is a predictive analysis using Logistic Regression model. Is based on Epicurious recipe dataset taken from Kaggle. It's an ongoing exploration, as the dataset has over 600 columns and 20,000 recipes. There's a lot more that could be learned from it.
+
+[The Placement Question](https://github.com/shreya2105/PlacementQuestion) - This analysis is based on the placement data of a B-school. I used multiple linear regression model to understand the relationship betweeen salaries and other variables like gender, school and college level scores, work experience, scores on entrance exam for the job among others.
+
+[Sales Prediction](https://github.com/shreya2105/sales_prediction) - This project was part of a hackathon organized by Analytics Vidhya. The purpose here was to predict sales of 600 courses of an online teaching portal using ARIMA model.The univariate series to be predicted here was 'Sales' for each course. The first step was to analyze if the series was dependent on any of the given explanatory variables. The given five features were regressed against dependent variable, sales. The linear regression model revealed that short promotion and user traffic were significant features and could explain 75% of the variation in sales. This linear regression model built to find relationships between variables was used to build the ARIMA model with 2 regressors initially. 
+
+
+### Data Analysis
 
 [India Justice Report, 2019](https://www.tatatrusts.org/upload/pdf/overall-report-single.pdf) - This is India's first [ranking index](https://www.tatatrusts.org/insights/survey-reports/India-justice-report-2019/index.html#visualization) for measuring Indian states on access to justice, based on four parameters - Police, Prisons, Judiciary, and Legal Aid. The study was funded by Tata Group's philanthropic arm, Tata Trusts. Here's the repository [link](https://github.com/shreya2105/Tata-Trusts-India-Justice-Report) for more details. 
 
 [Philanthropic Capital of India](http://csip.ashoka.edu.in/estimating-philanthropic-capital-in-india-datasets/) - Primary question that started this project was "What is the philanthropic capital of India?". To answer this question, I gathered and analyzed data from 4 Indian government's databases - Darpan, FCRA (Foreign Currency (Regulation) Act, Corporate Social Responsibility funding, Income Tax (for the list of NGOs registered with department).   
 
 ---
-### Programming
+### R Projects
 
 [Picking stocks for portfolio](https://github.com/shreya2105/Monthly-stocks-portfolio) - Pick large cap and small cap portfolio over a period of 20 years for each month.
 
+---
+
+### RShiny
 [RestaurantHygieneRatings](https://shreyaprojects.shinyapps.io/RestaurantRatings/) - A Shiny App to  find restaurants in the UK based on the hygiene ratings awarded by Food Standards Agency.
 
 <img src="images/shiny.jpeg?raw=true"/> 
@@ -38,6 +49,8 @@
 ### Blogs
 
 [How to analyze public data with Google BigQuery](https://towardsdatascience.com/a-short-guide-to-analyze-public-data-from-google-bigquery-667126efbe24)
+
+[Things to know while using Twitter Premium API with rTweet package](https://medium.com/@shreya2105/my-experience-with-twitter-premium-full-archive-api-using-rtweet-f6309f789902)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
